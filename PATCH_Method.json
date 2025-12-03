@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/Sample_01/A1/web_pool/members/0/serverAddresses/2",
+    "value": "10.1.2.3"
+  }
+]
